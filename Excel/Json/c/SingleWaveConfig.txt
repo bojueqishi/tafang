@@ -1,0 +1,3 @@
+{"list":[
+{"_t":"SingleWaveConfig","_id":1,"PrefabName":"Monster","MonsterInvertal":1000,"Hp":100,"Speed":10000},
+]}

@@ -1,0 +1,10 @@
+{"list":[
+{"_t":"FightItemConfig","_id":3001,"FightItemName":"弓箭塔","FightItemType":1,"TalentCode":"ArrowTalent","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":3004,"FightItemName":"范围塔","FightItemType":1,"TalentCode":"ArrowTalent","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":3007,"FightItemName":"激光塔","FightItemType":1,"TalentCode":"ArrowTalent","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":3010,"FightItemName":"燃烧塔","FightItemType":1,"TalentCode":"ArrowTalent","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":4001,"FightItemName":"怪物1","FightItemType":2,"TalentCode":"1,2,3,4,5,6","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":4002,"FightItemName":"怪物2","FightItemType":2,"TalentCode":"1,2,3,4,5,6","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":4003,"FightItemName":"怪物3","FightItemType":2,"TalentCode":"1,2,3,4,5,6","ResourceCode":"","UnlockCondition":""},
+{"_t":"FightItemConfig","_id":4004,"FightItemName":"怪物4","FightItemType":2,"TalentCode":"1,2,3,4,5,6","ResourceCode":"","UnlockCondition":""},
+]}

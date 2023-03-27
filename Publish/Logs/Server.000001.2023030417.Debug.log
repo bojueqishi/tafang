@@ -1,0 +1,60 @@
+2023-03-04 17:16:28.9897 (Scene.cs:35) scene create: Process Process 370410898868928513 370410898868928513 0
+2023-03-04 17:16:29.0307 (Program.cs:12) server start........................ 370410898868928513
+2023-03-04 17:16:29.1869 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Location Location 4 262148 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2023-03-04 17:16:29.1978 (Scene.cs:50) scene create: Account Account 7 262151 1
+2023-03-04 17:16:29.5014 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2023-03-04 17:16:29.5014 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2023-03-04 17:16:29.5014 (Scene.cs:50) scene create: Game Game 10 262154 1
+2023-03-04 17:16:33.4043 (Scene.cs:35) scene create: Process Process 370411242466312193 370411242466312193 0
+2023-03-04 17:16:33.4452 (Program.cs:12) server start........................ 370411242466312193
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Location Location 4 262148 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2023-03-04 17:16:33.6185 (Scene.cs:50) scene create: Account Account 7 262151 1
+2023-03-04 17:16:33.8505 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2023-03-04 17:16:33.8505 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2023-03-04 17:16:33.8522 (Scene.cs:50) scene create: Game Game 10 262154 1
+2023-03-04 17:19:54.0686 (Scene.cs:35) scene create: Process Process 370425055081136129 370425055081136129 0
+2023-03-04 17:19:54.0989 (Program.cs:12) server start........................ 370425055081136129
+2023-03-04 17:19:54.2652 (Scene.cs:50) scene create: Realm Realm 1 262145 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Gate Gate1 2 262146 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Gate Gate2 3 262147 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Location Location 4 262148 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Map Map1 5 262149 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Map Map2 6 262150 1
+2023-03-04 17:19:54.2759 (Scene.cs:50) scene create: Account Account 7 262151 1
+2023-03-04 17:19:54.4861 (Scene.cs:50) scene create: LoginCenter LoginCenter 8 262152 1
+2023-03-04 17:19:54.4861 (Scene.cs:50) scene create: UnitCache UnitCache 9 262153 1
+2023-03-04 17:19:54.4861 (Scene.cs:50) scene create: Game Game 10 262154 1
+2023-03-04 17:20:35.2855 (Session.cs:36) session create: zone: 1 id: 8589934592 1677921635285 
+2023-03-04 17:20:35.3551 (Session.cs:36) session create: zone: 0 id: 1 1677921635355 
+2023-03-04 17:20:35.3551 (Session.cs:36) session create: zone: 0 id: 8589934592 1677921635363 
+2023-03-04 17:20:35.4503 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:65450
+2023-03-04 17:20:35.4503 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:65450
+2023-03-04 17:20:35.4503 (Session.cs:45) session dispose: 127.0.0.1:65450 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1677921635458
+2023-03-04 17:20:35.4503 (Session.cs:36) session create: zone: 1 id: 8589934592 1677921635458 
+2023-03-04 17:20:35.5093 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:65452
+2023-03-04 17:20:35.5093 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:65452
+2023-03-04 17:20:35.5093 (Session.cs:45) session dispose: 127.0.0.1:65452 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1677921635509
+2023-03-04 17:20:35.5093 (Session.cs:36) session create: zone: 1 id: 8589934592 1677921635510 
+2023-03-04 17:20:35.5755 (Scene.cs:50) scene create: Map GateMap 370427872579682355 370427872579682355 1
+2023-03-04 17:20:35.7283 (LocationProxyComponentSystem.cs:0) location proxy lock 1719346825305063426, 370427872579682364 1677921635728
+2023-03-04 17:20:35.7435 (LocationComponentSystem.cs:52) location lock key: 1719346825305063426 instanceId: 370427872579682364
+2023-03-04 17:20:35.8038 (LocationProxyComponentSystem.cs:0) location proxy unlock 1719346825305063426, 370427872579682373 1677921635803
+2023-03-04 17:20:35.8208 (LocationComponentSystem.cs:81) location unlock key: 1719346825305063426 instanceId: 370427872579682364 newInstanceId: 370427872579682373
+2023-03-04 17:21:29.4116 (LocationComponentSystem.cs:96) location get key: 1719346825305063426 instanceId: 370427872579682373
+2023-03-04 17:21:33.1788 (TChannel.cs:404) TChannel OnError: 100208 127.0.0.1:65453
+2023-03-04 17:21:33.1788 (TChannel.cs:102) channel dispose: 8589934592 127.0.0.1:65453
+2023-03-04 17:21:33.1834 (Session.cs:45) session dispose: 127.0.0.1:65453 id: 8589934592 ErrorCode: 100208, please see ErrorCode.cs! 1677921693183
+2023-03-04 17:21:33.2005 (LocationProxyComponentSystem.cs:0) location proxy add 1719346825305063426, 1677921693200
+2023-03-04 17:21:33.2147 (LocationComponentSystem.cs:41) location remove key: 1719346825305063426
+2023-03-04 17:21:33.2428 (Scene.cs:57) scene dispose: Map GateMap 370427872579682355 0 1
+2023-03-04 17:22:34.3847 (ActorLocationSenderSystem.cs:21) actor location remove: 1719346825305063426

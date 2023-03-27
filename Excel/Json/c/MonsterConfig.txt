@@ -1,0 +1,17 @@
+{"list":[
+{"_t":"MonsterConfig","_id":1001,"PrefabName":"Monster1","Hp":9,"Speed":3076,"DropMoney":5,"Defense":[1,2],"MonsterAttack":3,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1002,"PrefabName":"Monster2","Hp":50,"Speed":3076,"DropMoney":8,"Defense":[0,0],"MonsterAttack":5,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1003,"PrefabName":"Monster3","Hp":30,"Speed":4400,"DropMoney":3,"Defense":[0,0],"MonsterAttack":4,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1004,"PrefabName":"Monster4","Hp":70,"Speed":4400,"DropMoney":8,"Defense":[2,0],"MonsterAttack":6,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1005,"PrefabName":"Monster5","Hp":120,"Speed":4400,"DropMoney":15,"Defense":[2,0],"MonsterAttack":10,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1006,"PrefabName":"Monster6","Hp":40,"Speed":4400,"DropMoney":3,"Defense":[0,0],"MonsterAttack":8,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":1007,"PrefabName":"Monster7","Hp":40,"Speed":4400,"DropMoney":6,"Defense":[0,0],"MonsterAttack":9,"NeedMoney":0},
+{"_t":"MonsterConfig","_id":4001,"PrefabName":"Monster1","Hp":25,"Speed":3076,"DropMoney":0,"Defense":[0,0],"MonsterAttack":3,"NeedMoney":3},
+{"_t":"MonsterConfig","_id":4002,"PrefabName":"Monster2","Hp":50,"Speed":3076,"DropMoney":0,"Defense":[0,0],"MonsterAttack":4,"NeedMoney":8},
+{"_t":"MonsterConfig","_id":4003,"PrefabName":"Monster3","Hp":30,"Speed":4400,"DropMoney":0,"Defense":[0,0],"MonsterAttack":5,"NeedMoney":3},
+{"_t":"MonsterConfig","_id":4004,"PrefabName":"Monster4","Hp":70,"Speed":4400,"DropMoney":0,"Defense":[2,0],"MonsterAttack":6,"NeedMoney":8},
+{"_t":"MonsterConfig","_id":4005,"PrefabName":"Monster5","Hp":120,"Speed":4400,"DropMoney":0,"Defense":[2,0],"MonsterAttack":7,"NeedMoney":15},
+{"_t":"MonsterConfig","_id":4006,"PrefabName":"Monster6","Hp":40,"Speed":4400,"DropMoney":0,"Defense":[0,0],"MonsterAttack":8,"NeedMoney":3},
+{"_t":"MonsterConfig","_id":4007,"PrefabName":"Monster7","Hp":40,"Speed":4400,"DropMoney":0,"Defense":[0,0],"MonsterAttack":7,"NeedMoney":6},
+{"_t":"MonsterConfig","_id":4008,"PrefabName":"Monster8","Hp":200,"Speed":1700,"DropMoney":0,"Defense":[1,1],"MonsterAttack":15,"NeedMoney":50},
+]}

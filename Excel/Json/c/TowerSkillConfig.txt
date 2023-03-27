@@ -1,0 +1,4 @@
+{"list":[
+{"_t":"TowerSkillConfig","_id":1,"SkillFrontTime":10000,"SkillContinueTime":5000,"SkillText":"激光折射"},
+{"_t":"TowerSkillConfig","_id":2,"SkillFrontTime":10000,"SkillContinueTime":0,"SkillText":"炮弹炸多个"},
+]}

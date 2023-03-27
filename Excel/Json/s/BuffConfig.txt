@@ -1,0 +1,8 @@
+{"list":[
+{"_t":"BuffConfig","_id":1,"BuffContinuedTime":3100,"BuffEffectInterval":1000,"BuffDamage":[2,0],"BuffType":1,"BuffDescription":"灼伤"},
+{"_t":"BuffConfig","_id":2,"BuffContinuedTime":3100,"BuffEffectInterval":1000,"BuffDamage":[2,0],"BuffType":1,"BuffDescription":"灼伤"},
+{"_t":"BuffConfig","_id":3,"BuffContinuedTime":3100,"BuffEffectInterval":750,"BuffDamage":[3,0],"BuffType":1,"BuffDescription":"灼伤"},
+{"_t":"BuffConfig","_id":4,"BuffContinuedTime":3100,"BuffEffectInterval":0,"BuffDamage":[0,0],"BuffType":2,"BuffDescription":"减速"},
+{"_t":"BuffConfig","_id":5,"BuffContinuedTime":3100,"BuffEffectInterval":0,"BuffDamage":[0,0],"BuffType":2,"BuffDescription":"减速"},
+{"_t":"BuffConfig","_id":6,"BuffContinuedTime":3100,"BuffEffectInterval":0,"BuffDamage":[0,0],"BuffType":2,"BuffDescription":"减速"},
+]}

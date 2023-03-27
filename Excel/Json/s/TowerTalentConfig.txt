@@ -1,0 +1,8 @@
+{"list":[
+{"_t":"TowerTalentConfig","_id":1,"TalentDescription":"1","TalentActionPointType":1,"TalentActionNumber":1},
+{"_t":"TowerTalentConfig","_id":2,"TalentDescription":"2","TalentActionPointType":1,"TalentActionNumber":1},
+{"_t":"TowerTalentConfig","_id":3,"TalentDescription":"3","TalentActionPointType":1,"TalentActionNumber":1},
+{"_t":"TowerTalentConfig","_id":4,"TalentDescription":"4","TalentActionPointType":1,"TalentActionNumber":1},
+{"_t":"TowerTalentConfig","_id":5,"TalentDescription":"5","TalentActionPointType":1,"TalentActionNumber":1},
+{"_t":"TowerTalentConfig","_id":6,"TalentDescription":"6","TalentActionPointType":1,"TalentActionNumber":1},
+]}

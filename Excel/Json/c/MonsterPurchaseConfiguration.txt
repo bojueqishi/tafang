@@ -1,0 +1,9 @@
+{"list":[
+{"_t":"MonsterPurchaseConfiguration","_id":4001,"PrefabName":"Monster1","Hp":25,"Speed":3076,"SpendCoins":5,"PhysicalDefense":0,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4002,"PrefabName":"Monster2","Hp":50,"Speed":3076,"SpendCoins":8,"PhysicalDefense":0,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4003,"PrefabName":"Monster3","Hp":30,"Speed":3400,"SpendCoins":3,"PhysicalDefense":0,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4004,"PrefabName":"Monster4","Hp":70,"Speed":3400,"SpendCoins":8,"PhysicalDefense":200,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4005,"PrefabName":"Monster5","Hp":120,"Speed":3400,"SpendCoins":15,"PhysicalDefense":200,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4006,"PrefabName":"Monster6","Hp":40,"Speed":3400,"SpendCoins":3,"PhysicalDefense":0,"SpellDefense":0},
+{"_t":"MonsterPurchaseConfiguration","_id":4007,"PrefabName":"Monster7","Hp":40,"Speed":3400,"SpendCoins":6,"PhysicalDefense":0,"SpellDefense":0},
+]}

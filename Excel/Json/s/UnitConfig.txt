@@ -1,0 +1,5 @@
+{"list":[
+{"_t":"UnitConfig","_id":1001,"Type":1,"Name":"米克尔","Desc":"带有强力攻击技能","PrefabName":"Skeleton","Hp":0,"Speed":0,"Attack":0,"AttackInterval":0,"NeedMoNEY":0,"range":0},
+{"_t":"UnitConfig","_id":1002,"Type":2,"Name":"怪物","Desc":"无","PrefabName":"Monster","Hp":100,"Speed":10000,"Attack":10000,"AttackInterval":0,"NeedMoNEY":0,"range":0},
+{"_t":"UnitConfig","_id":1003,"Type":3,"Name":"塔","Desc":"无","PrefabName":"Tower","Hp":100,"Speed":0,"Attack":10,"AttackInterval":10000,"NeedMoNEY":100,"range":50000},
+]}

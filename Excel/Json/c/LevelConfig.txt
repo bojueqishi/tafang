@@ -1,0 +1,3 @@
+{"list":[
+{"_t":"LevelConfig","_id":1,"MapId":1,"WaveCode":"Wave1","MonsterWaveInterval":1000},
+]}

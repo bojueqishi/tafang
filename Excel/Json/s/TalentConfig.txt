@@ -1,0 +1,8 @@
+{"list":[
+{"_t":"TalentConfig","_id":1,"Code":"ArrowTalent","Level":1,"Sn":1,"SkillId":1002},
+{"_t":"TalentConfig","_id":2,"Code":"ArrowTalent","Level":1,"Sn":2,"SkillId":1003},
+{"_t":"TalentConfig","_id":3,"Code":"ArrowTalent","Level":2,"Sn":1,"SkillId":1004},
+{"_t":"TalentConfig","_id":4,"Code":"ArrowTalent","Level":2,"Sn":2,"SkillId":1005},
+{"_t":"TalentConfig","_id":5,"Code":"ArrowTalent","Level":3,"Sn":1,"SkillId":1006},
+{"_t":"TalentConfig","_id":6,"Code":"ArrowTalent","Level":3,"Sn":2,"SkillId":1007},
+]}

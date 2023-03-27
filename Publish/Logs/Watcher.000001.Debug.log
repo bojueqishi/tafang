@@ -1,0 +1,25 @@
+2023-03-04 17:17:24.1014 (Scene.cs:35) scene create: Process Process 370414747159625729 370414747159625729 0
+2023-03-04 17:17:24.1308 (Program.cs:12) server start........................ 370414747159625729
+2023-03-04 17:17:24.3705  System.Exception: not found this machine ip config!
+   at ET.WatcherHelper.GetThisMachineConfig() in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Server\Hotfix\Watcher\WatcherHelper.cs:line 25
+   at ET.AppStart_Init.RunAsync(AppStart args) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Server\Hotfix\AppStart_Init.cs:line 57
+   at ET.ETTask.GetResult()
+   at ET.ETTask.InnerCoroutine()
+2023-03-04 17:19:53.1562 (Scene.cs:35) scene create: Process Process 370424986361659393 370424986361659393 0
+2023-03-04 17:19:53.1835 (Program.cs:12) server start........................ 370424986361659393
+2023-03-04 17:19:53.5007 (WatcherHelper.cs:42) dotnet Server.dll --Process=1 --AppType=Server --StartConfig=StartConfig/Release --Develop=0 --CreateScenes=1 --LogLevel=2
+2023-03-04 17:19:53.5655 (WatcherHelper.cs:42) dotnet Robot.dll --Process=2 --AppType=Robot --StartConfig=StartConfig/Release --Develop=0 --CreateScenes=1 --LogLevel=2
+2023-03-04 17:19:53.5907 (EventSystem.cs:417) System.Net.Sockets.SocketException (10013): 以一种访问权限不允许的方式做了一个访问套接字的尝试。
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at ET.TService..ctor(ThreadSynchronizationContext threadSynchronizationContext, IPEndPoint ipEndPoint, ServiceType serviceType) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Assets\Mono\Module\NetworkTCP\TService.cs:line 45
+   at ET.NetInnerComponentAwake1System.Awake(NetInnerComponent self, IPEndPoint address, Int32 sessionStreamDispatcherType) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Server\Hotfix\Module\MessageInner\NetInnerComponentSystem.cs:line 35
+   at ET.AwakeSystem`3.Run(Object o, A a, B b) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Codes\Model\Core\Object\IAwakeSystem.cs:line 107
+   at ET.EventSystem.Awake[P1,P2](Entity component, P1 p1, P2 p2) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Codes\Model\Core\Object\EventSystem.cs:line 417
+2023-03-04 17:19:54.6002 (ThreadSynchronizationContext.cs:54) System.InvalidOperationException: StandardOut has not been redirected or the process hasn't started yet.
+   at System.Diagnostics.Process.get_StandardOutput()
+   at ET.ProcessHelper.WaitExitAsync(Process process) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Assets\Mono\Core\Helper\ProcessHelper.cs:line 52
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   at ET.ThreadSynchronizationContext.<>c__DisplayClass8_0.<Post>b__0() in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 45
+   at ET.ThreadSynchronizationContext.Post(Action action) in D:\LenovoSoftstore\Install\unityhub\UnityProjects\ET-EUI-main\Unity\Assets\Mono\Core\ThreadSynchronizationContext.cs:line 54

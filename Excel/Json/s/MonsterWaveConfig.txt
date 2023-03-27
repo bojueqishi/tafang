@@ -1,0 +1,12 @@
+{"list":[
+{"_t":"MonsterWaveConfig","_id":1,"WaveCode":"Wave1","Group":1,"Timing":0,"MonsterId":1001,"MonsterNumber":1,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":2,"WaveCode":"Wave1","Group":2,"Timing":0,"MonsterId":1001,"MonsterNumber":16,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":3,"WaveCode":"Wave1","Group":3,"Timing":0,"MonsterId":1001,"MonsterNumber":34,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":4,"WaveCode":"Wave1","Group":3,"Timing":1000,"MonsterId":1002,"MonsterNumber":18,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":5,"WaveCode":"Wave1","Group":4,"Timing":7000,"MonsterId":1003,"MonsterNumber":27,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":6,"WaveCode":"Wave1","Group":5,"Timing":8000,"MonsterId":1001,"MonsterNumber":26,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":7,"WaveCode":"Wave1","Group":5,"Timing":1000,"MonsterId":1003,"MonsterNumber":8,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":8,"WaveCode":"Wave1","Group":6,"Timing":8000,"MonsterId":1001,"MonsterNumber":15,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":9,"WaveCode":"Wave1","Group":6,"Timing":1000,"MonsterId":1002,"MonsterNumber":6,"MonsterInterval":1000},
+{"_t":"MonsterWaveConfig","_id":10,"WaveCode":"Wave1","Group":6,"Timing":1000,"MonsterId":1003,"MonsterNumber":15,"MonsterInterval":1000},
+]}
